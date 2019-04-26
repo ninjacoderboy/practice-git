@@ -1,11 +1,6 @@
 let me = {
     name: 'Meer',
     age : 16,
-    passion: 'Programming'
+    passion: 'coding'
 }
-
 console.log(me);
-
-for (key in me){
-    console.log(me[key]);
-}
