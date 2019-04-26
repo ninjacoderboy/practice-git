@@ -5,3 +5,7 @@ let me = {
 }
 
 console.log(me);
+
+for (key in me){
+    console.log(me[key]);
+}
